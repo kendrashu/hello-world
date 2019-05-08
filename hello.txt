@@ -5,4 +5,19 @@ testing testing testing
 hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 
 branch commits testing hullo hi git
+<<<<<<< HEAD
 branchconflicthi trying new conflict 
+=======
+branchconflicthi trying new conflict 
+
+
+is this working 
+probably not 
+
+
+NVM IT IS WORKING
+
+git add
+git commit 
+git push -u origin master
+>>>>>>> master
