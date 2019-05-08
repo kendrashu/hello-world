@@ -11,3 +11,9 @@ branchconflicthi trying new conflict
 is this working 
 probably not 
 
+
+NVM IT IS WORKING
+
+git add
+git commit 
+git push 
