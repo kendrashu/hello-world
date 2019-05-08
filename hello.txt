@@ -16,4 +16,4 @@ NVM IT IS WORKING
 
 git add
 git commit 
-git push 
+git push -u origin master
